@@ -63,3 +63,10 @@ model = YOLO('your_custom_model.pt')
 - 첫 실행 시 YOLOv8s 모델이 자동으로 다운로드됩니다 (약 20MB)
 - 대용량 이미지 처리 시 시간이 걸릴 수 있습니다
 - 화재 감지의 정확도는 사용된 모델 및 이미지 품질에 따라 달라집니다 
+
+## 라이선스
+
+이 프로젝트는 [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html)를 따릅니다.
+
+프로그램을 사용하거나 배포하는 경우, 소스코드를 포함해 사용자에게 공개해야 합니다.  
+자세한 사항은 LICENSE 파일을 참조하세요.
